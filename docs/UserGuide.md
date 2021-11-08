@@ -28,8 +28,6 @@ With DukePro(f), you will be able to:
 * Block certain time slots to ensure your consultations don't clash with other commitments
 * And many other small quality of life features!
 
-<hr />
-
 <sup>1</sup>Command-Line Interface (CLI): How you interact with the application, i.e. by 
 typing in text (commands).<br>
 <sup>2</sup>Graphical User Interface (GUI): The visual component of DukePro(f), and the form by which you 
@@ -102,6 +100,8 @@ These are the different parts of DukePro(f)'s GUI:
 <img src="images/UG_Tutorial_1.png" width="600px">
 <br> <br>
 
+<div style="page-break-after: always;"></div>
+
 Here's how to add a consultation event to DukePro(f):
 <br>
 <img src="images/UG_Tutorial_2.png" width="600px">
@@ -117,6 +117,8 @@ Step 2: Check the Result Display to see if your command is successful.<br>
 <img src="images/UG_Tutorial_4.png" width="600px">
 <br>
 Step 3: Check the Consultation List to see if your consultation event has been added.<br>
+
+<div style="page-break-after: always;"></div>
 
 Here are some other commands you can try:
 
@@ -237,6 +239,8 @@ Example(s):
   Adds a consultation event for `Ruth Poh`, at date `2 Mar 2021` and time `1pm to 2pm`,
   at location `The Deck`, with the remark `May have to switch to zoom`.
 
+<div style="page-break-after: always;"></div>
+
 ### 5.2 Deleting a Consultation Event : `delete`
 
 Deletes a consultation event from DukePro(f) at the specified `INDEX`.
@@ -274,6 +278,8 @@ Example(s):
 * `edit 3 r/May have to switch to Zoom.`<br>
   Edits the remark of the third consultation event indexed in the Consultation list to `May have to switch to Zoom.`
 
+<div style="page-break-after: always;"></div>
+
 ### 5.4 Listing all Consultation Events : `list`
 Lists all consultation events in the Consultation List.
 
@@ -296,6 +302,8 @@ Displays all upcoming consultation events for the current day in the Consultatio
 </div>
 
 Format: `upcoming_events`
+
+<div style="page-break-after: always;"></div>
 
 ### 5.7 Clearing all Consultation Events : `clear`
 
@@ -346,6 +354,7 @@ Example(s):
 * `filter_tag URGENT`<br>
   Finds all consultation events that contain the tag `URGENT` and displays them in the Consultation List.
 
+<div style="page-break-after: always;"></div>
 
 ### 5.10 Listing all Free Time Slots : `list_free`
 Lists down all free time slots from now until 2359 of the day with the last event or blocked slot in the 
