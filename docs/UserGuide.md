@@ -29,7 +29,7 @@ With DukePro(f), you will be able to:
 * And many other small quality of life features!
 
 <div style="font-size: 12px;"><sup>1</sup>Command-Line Interface (CLI): How you interact with the application, i.e. by 
-typing in text (commands).</div><br>
+typing in text (commands).</div>
 <div style="font-size: 12px;"><sup>2</sup>Graphical User Interface (GUI): The visual component of DukePro(f), and the form by which you 
 interact with it.</div>
 
