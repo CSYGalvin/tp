@@ -28,8 +28,8 @@ With DukePro(f), you will be able to:
 * Block certain time slots to ensure your consultations don't clash with other commitments
 * And many other small quality of life features!
 
-<sup>1</sup>Command-Line Interface (CLI): How you interact with the application, i.e. by 
-typing in text (commands).<br>
+<p style="font-size: 10px;"><sup>1</sup>Command-Line Interface (CLI): How you interact with the application, i.e. by 
+typing in text (commands).</p><br>
 <sup>2</sup>Graphical User Interface (GUI): The visual component of DukePro(f), and the form by which you 
 interact with it.
 
