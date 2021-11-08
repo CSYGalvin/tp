@@ -118,8 +118,6 @@ Step 2: Check the Result Display to see if your command is successful.<br>
 <br>
 Step 3: Check the Consultation List to see if your consultation event has been added.<br>
 
-<div style="page-break-after: always;"></div>
-
 Here are some other commands you can try:
 
 * **`list`**<br>
@@ -338,6 +336,8 @@ Example(s):
   Finds all consultation events that have students with the name `Jacob` (or any case-insensitive variant) 
   and displays them in the Consultation List.
 
+<div style="page-break-after: always;"></div>
+
 ### 5.9 Filtering Consultation Events By Tags : `filter_tag`
 Finds all consultation events whose tags contain any of the specified tag names (case-insensitive) and displays them as 
 an indexed list in the Consultation List.
@@ -353,8 +353,6 @@ cannot return a consultation event tagged `URGENT`
 Example(s):
 * `filter_tag URGENT`<br>
   Finds all consultation events that contain the tag `URGENT` and displays them in the Consultation List.
-
-<div style="page-break-after: always;"></div>
 
 ### 5.10 Listing all Free Time Slots : `list_free`
 Lists down all free time slots from now until 2359 of the day with the last event or blocked slot in the 
@@ -435,8 +433,6 @@ make its format invalid, DukePro(f) will discard all data and start with an empt
 Exits DukePro(f).
 
 Format: `exit`
-
-<div style="page-break-after: always;"></div>
 
 ## 6. FAQ
 ***
